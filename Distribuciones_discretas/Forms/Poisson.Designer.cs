@@ -46,7 +46,7 @@
             txtLambda.PlaceholderText = "Promedio de ocurrencias (λ)";
             txtLambda.SelectedText = "";
             txtLambda.ShadowDecoration.CustomizableEdges = customizableEdges2;
-            txtLambda.Size = new Size(200, 48);
+            txtLambda.Size = new Size(241, 48);
             txtLambda.TabIndex = 0;
             txtLambda.KeyPress += txtLambda_KeyPress;
             // 
@@ -62,7 +62,7 @@
             txtEventos.PlaceholderText = "Número de eventos deseados (k)";
             txtEventos.SelectedText = "";
             txtEventos.ShadowDecoration.CustomizableEdges = customizableEdges4;
-            txtEventos.Size = new Size(200, 48);
+            txtEventos.Size = new Size(241, 48);
             txtEventos.TabIndex = 1;
             txtEventos.KeyPress += txtEventos_KeyPress;
             // 
