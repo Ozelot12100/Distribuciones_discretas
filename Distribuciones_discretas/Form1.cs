@@ -21,6 +21,8 @@ namespace Distribuciones_discretas
             formHipergeometrica = new Hipergeométrica();
             formMultinomial = new Multinomial();
             formPoisson = new Poisson();
+            // Establece la primera pestaña como la seleccionada
+            
         }
 
         private void tabControl_SelectedIndexChanged(object sender, EventArgs e)

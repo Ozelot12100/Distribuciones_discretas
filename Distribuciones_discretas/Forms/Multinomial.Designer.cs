@@ -84,6 +84,7 @@
             this.Controls.Add(this.btnCalcular);
             this.Controls.Add(this.lblResultado);
             this.Text = "Distribución Multinomial";
+            FormBorderStyle = FormBorderStyle.None;
         }
 
         #endregion

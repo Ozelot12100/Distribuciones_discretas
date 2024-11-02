@@ -93,6 +93,7 @@
             this.Controls.Add(this.btnCalcular);
             this.Controls.Add(this.lblResultado);
             this.Text = "Distribución Hipergeométrica";
+            FormBorderStyle = FormBorderStyle.None;
         }
 
         #endregion

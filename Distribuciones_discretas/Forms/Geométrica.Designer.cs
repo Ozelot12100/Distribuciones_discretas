@@ -73,6 +73,7 @@
             this.Controls.Add(this.btnCalcular);
             this.Controls.Add(this.lblResultado);
             this.Text = "Distribución Geométrica";
+            FormBorderStyle = FormBorderStyle.None;
         }
 
         #endregion
